@@ -1,0 +1,13 @@
+#RecipeTitle {
+    text-align: center;
+    background-color: lightskyblue;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 64 px;
+}
+.food {
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:green;
+    font-size: 32px;
+}
